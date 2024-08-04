@@ -6,12 +6,12 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAFwClSPA5e5p1Cp68nMml-oxIfBEUsaKo",
-  authDomain: "pantry-6c107.firebaseapp.com",
-  projectId: "pantry-6c107",
-  storageBucket: "pantry-6c107.appspot.com",
-  messagingSenderId: "818648032785",
-  appId: "1:818648032785:web:3c6f0470438cabae28f3b0"
+  apiKey: "HELLO",
+  authDomain: "HELLO",
+  projectId: "HELLO",
+  storageBucket: "HELLO",
+  messagingSenderId: "HELLO",
+  appId: "HELLO"
 };
 
 // Initialize Firebase
